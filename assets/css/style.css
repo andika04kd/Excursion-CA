@@ -1,0 +1,38 @@
+html,
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+
+.container .title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.container .button {
+    color: aquamarine;
+}
+
+.container .title2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.container .content {
+    font-size: 21px;
+    color: gray;
+}
+
+.container .phone {
+    margin-top: 30px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    margin-right: 50px;
+}
